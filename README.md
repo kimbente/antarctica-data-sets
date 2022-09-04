@@ -10,6 +10,8 @@ Overview of available data sets under the public domains which may be suitable f
   * [NSIDC Data tutorials](https://github.com/nsidc/NSIDC-Data-Tutorials)
 * [NSF-ICF](https://icecores.org/inventory) (The [US] National Science Foundation Ice Core Facility) - stores and studies ice cores recovered from glaciated regions around the world. As of mid 2022, this includes ice cores from 18 areas in Antarctica.
 * [SCAR](https://scar.org/resources/data/) (Scientific Committee on Antarctic Research) - included for example seismic data and iceberg data
+ * [SCAR ADD](https://www.bas.ac.uk/project/add/) (Scientific Committee on Antarctic Research, Antarctic Digital Database) - topographic data managed by the British Antarctic Survey (BAS)
+* [BAS](https://data.bas.ac.uk/terms.php?topic=Cryosphere) (Bristish Antarctic Survey) - cryosphere data sets
 
 ## Data by location of interest
 
