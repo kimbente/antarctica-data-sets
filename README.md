@@ -5,11 +5,11 @@ Overview of available data sets under the public domains which may be suitable f
 
 * [NOAA NCEI](https://www.ncei.noaa.gov/products/paleoclimatology/ice-core) (The [US] National Oceanic and Atmospheric Administration, National Centers for Environmental Information)] - paleoclimatology datasets including ice core data
   * [NOAA NCEI data sets by location](https://www.ncei.noaa.gov/access/paleo-search/reports/location?dataTypeId=7&search=true)
-* [NSIDC](https://nsidc.org/home)(The [US] National Snow and Ice Data Center) - contains a wide variety of cryosphere data sets including airborne, ground-based and satellite measurements.
+* [NSIDC](https://nsidc.org/home) (The [US] National Snow and Ice Data Center) - contains a wide variety of cryosphere data sets including airborne, ground-based and satellite measurements.
   * [Example data set: Operation IceBridge](https://nsidc.org/data/icebridge)
   * [NSIDC Data tutorials](https://github.com/nsidc/NSIDC-Data-Tutorials)
-* [NSF-ICF](https://icecores.org/inventory)(The [US] National Science Foundation Ice Core Facility) - stores and studies ice cores recovered from glaciated regions around the world. As of mid 2022, this includes ice cores from 18 areas in Antarctica.
-* [SCAR](https://scar.org/resources/data/)(Scientific Committee on Antarctic Research) - included for example seismic data and iceberg data
+* [NSF-ICF](https://icecores.org/inventory) (The [US] National Science Foundation Ice Core Facility) - stores and studies ice cores recovered from glaciated regions around the world. As of mid 2022, this includes ice cores from 18 areas in Antarctica.
+* [SCAR](https://scar.org/resources/data/) (Scientific Committee on Antarctic Research) - included for example seismic data and iceberg data
 
 ## Data by location of interest
 
