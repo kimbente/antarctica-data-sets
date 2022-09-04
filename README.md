@@ -12,7 +12,7 @@ Overview of available data sets under the public domains which may be suitable f
 * [SCAR](https://scar.org/resources/data/) (Scientific Committee on Antarctic Research) - included for example seismic data and iceberg data
   * [SCAR ADD](https://www.bas.ac.uk/project/add/) (Scientific Committee on Antarctic Research, Antarctic Digital Database) - topographic data managed by the British Antarctic Survey (BAS)
 * [BAS](https://data.bas.ac.uk/terms.php?topic=Cryosphere) (Bristish Antarctic Survey) - cryosphere data sets
-
+* [Pangaea](https://www.pangaea.de/?t=Cryosphere) (Data Publisher for Earth & Environmental Science) - Tool allows search for e.g. Cryosphere data and more specifically for Sampling/ice drillings.
 ## Data by location of interest
 
 ### Little Dome C
