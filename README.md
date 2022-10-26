@@ -41,6 +41,9 @@ This area is of particular interest to paleoclimatology researchers. A current p
 * [Cryosphere links repository](https://github.com/tom-andersson/cryosphere-links)
 * [AntarcticGlaciers](https://www.antarcticglaciers.org/antarctica-2/antarctic-datasets/)
 
+## Simulated data/polar models
+* [Regional atmospheric climate model version 2(RACMO2)](https://tc.copernicus.org/articles/12/1479/2018/)
+
 # License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
