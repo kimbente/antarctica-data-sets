@@ -42,7 +42,8 @@ This area is of particular interest to paleoclimatology researchers. A current p
 * [AntarcticGlaciers](https://www.antarcticglaciers.org/antarctica-2/antarctic-datasets/)
 
 ## Simulated data/polar models
-* [Regional atmospheric climate model version 2(RACMO2)](https://tc.copernicus.org/articles/12/1479/2018/)
+* [Regional atmospheric climate model (RACMO2)](https://www.projects.science.uu.nl/iceclimate/models/racmo-model.php)
+  * [Evaluation paper](https://tc.copernicus.org/articles/12/1479/2018/)
 
 # License
 
