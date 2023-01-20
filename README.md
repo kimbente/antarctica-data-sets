@@ -19,17 +19,17 @@ Overview of available data sets under the public domains which may be suitable f
 
 ## Modelled/simulated data
 * Bedmap2
- * key publication [Fretwell et al. 2013](https://tc.copernicus.org/articles/7/375/2013/)
- * [data](https://www.bas.ac.uk/project/bedmap-2/)
+  * key publication [Fretwell et al. 2013](https://tc.copernicus.org/articles/7/375/2013/)
+  * [data](https://www.bas.ac.uk/project/bedmap-2/)
 * BedMachine
- * key publication (awaiting v3 Antarctica publication) [Morlighem et al. 2020](https://www.nature.com/articles/s41561-019-0510-8)
- * [data, MEaSUREs BedMachine Antarctica, Version 3](https://nsidc.org/data/nsidc-0756/versions/3) 
+  * key publication (awaiting v3 Antarctica publication) [Morlighem et al. 2020](https://www.nature.com/articles/s41561-019-0510-8)
+  * [data, MEaSUREs BedMachine Antarctica, Version 3](https://nsidc.org/data/nsidc-0756/versions/3) 
 * RACMO
- * key publication [van Wessen et al. 2018](https://tc.copernicus.org/articles/12/1479/2018/)
- * [data](https://www.projects.science.uu.nl/iceclimate/publications/data/2018/vwessem2018_tc/RACMO_Yearly/)
+  * key publication [van Wessen et al. 2018](https://tc.copernicus.org/articles/12/1479/2018/)
+  * [data](https://www.projects.science.uu.nl/iceclimate/publications/data/2018/vwessem2018_tc/RACMO_Yearly/)
 * ECMWF Reanalysis v5 (ERA5)
- * key publication [Hersbach et al. 2020](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3803?ref=https://githubhelp.com)
- * [data](https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5)
+  * key publication [Hersbach et al. 2020](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3803?ref=https://githubhelp.com)
+  * [data](https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5)
 
 ## Data by location of interest
 
