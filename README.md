@@ -50,6 +50,8 @@ Overview of available data sets under the public domains which may be suitable f
   * Key publication [Van Liefferinge and Pattyn 2013](https://cp.copernicus.org/articles/9/2335/2013/)
   * [Pattyn 2010](https://www.sciencedirect.com/science/article/pii/S0012821X10002712)
   * no data available
+  * Other publication [An et al. 2015](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JB011917)
+  * [data](http://www.seismolab.org/model/antarctica/lithosphere/index.html#an1-hf)
 
 
 ### Little Dome C
