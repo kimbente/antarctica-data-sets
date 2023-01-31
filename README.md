@@ -73,6 +73,7 @@ This area is of particular interest to paleoclimatology researchers. A current p
 
 * Icebridge
 * GRACE
+* ALBMAP
 
 ## Other overviews of data and models
 
