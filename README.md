@@ -21,6 +21,7 @@ Overview of available data sets under the public domains which may be suitable f
 * Bedmap2
   * key publication [Fretwell et al. 2013](https://tc.copernicus.org/articles/7/375/2013/)
   * [data](https://www.bas.ac.uk/project/bedmap-2/)
+  * variables: surface elevation, ice thickness, bed elevation
 * BedMachine
   * key publication (awaiting v3 Antarctica publication) [Morlighem et al. 2020](https://www.nature.com/articles/s41561-019-0510-8)
   * [data, MEaSUREs BedMachine Antarctica, Version 3](https://nsidc.org/data/nsidc-0756/versions/3) 
@@ -32,6 +33,24 @@ Overview of available data sets under the public domains which may be suitable f
   * [data](https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5)
 
 ## Data by location of interest
+
+## Continent wide data by variable
+
+* Ice velocity data
+  * key publication 1 [Rignot et al. 2011](https://www.science.org/doi/full/10.1126/science.1208336?casa_token=g2LgmFsTJPkAAAAA%3AlVOZ7HeKsNPfROZvvzWzlGnnE5LTb5EQbojhwVWznZWTXbA9N31AAHGUNATPT0B9rHcqwhCumwtMdEhf#core-R22)
+  * key publication 2 [Mouginot et al. 2012](https://www.mdpi.com/2072-4292/4/9/2753)
+  * key publication 3 [Mouginot et al. 2017](https://www.mdpi.com/2072-4292/9/4/364)
+  * [data: MEaSUREs InSAR-Based Antarctica Ice Velocity Map, Version 2](https://nsidc.org/data/nsidc-0484/versions/2)
+* SMB/Snow accumulation data
+  * key publication [Arthern et el. 2006](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2004JD005667)
+  * [data](https://legacy.bas.ac.uk/bas_research/data/online_resources/snow_accumulation/amsr_accumulation_map.txt)
+  * Also see RACMO2 above
+* Wind
+* Geothermal heatflux/basal temperature
+  * Key publication [Van Liefferinge and Pattyn 2013](https://cp.copernicus.org/articles/9/2335/2013/)
+  * [Pattyn 2010](https://www.sciencedirect.com/science/article/pii/S0012821X10002712)
+  * no data available
+
 
 ### Little Dome C
 
@@ -50,14 +69,15 @@ This area is of particular interest to paleoclimatology researchers. A current p
 ### McMurdo Dry Valleys
 * Antarctic Airborne ElectroMagnetics (ANTAEM) [link to Aarhus HydroGeophysics Group](https://hgg.au.dk/projects/antaem-antarctica-aem)
 
+## Important research mission
+
+* Icebridge
+* GRACE
+
 ## Other overviews of data and models
 
 * [Cryosphere links repository](https://github.com/tom-andersson/cryosphere-links)
 * [AntarcticGlaciers](https://www.antarcticglaciers.org/antarctica-2/antarctic-datasets/)
-
-## Simulated data/polar models
-* [Regional atmospheric climate model (RACMO2)](https://www.projects.science.uu.nl/iceclimate/models/racmo-model.php)
-  * [Evaluation paper](https://tc.copernicus.org/articles/12/1479/2018/)
 
 # License
 
