@@ -41,6 +41,7 @@ Overview of available data sets under the public domains which may be suitable f
   * key publication 2 [Mouginot et al. 2012](https://www.mdpi.com/2072-4292/4/9/2753)
   * key publication 3 [Mouginot et al. 2017](https://www.mdpi.com/2072-4292/9/4/364)
   * [data: MEaSUREs InSAR-Based Antarctica Ice Velocity Map, Version 2](https://nsidc.org/data/nsidc-0484/versions/2)
+    * 450m grid. Polar Stereographic projection
 * SMB/Snow accumulation data
   * key publication [Arthern et el. 2006](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2004JD005667)
   * [data](https://legacy.bas.ac.uk/bas_research/data/online_resources/snow_accumulation/amsr_accumulation_map.txt)
