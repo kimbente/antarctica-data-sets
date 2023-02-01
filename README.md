@@ -73,9 +73,14 @@ This area is of particular interest to paleoclimatology researchers. A current p
 
 ## Important research mission
 
-* Icebridge
+* [Operation Icebridge](https://icebridge.gsfc.nasa.gov/)
+  * most data are flightlines (thus not gridded) except the Digital Elevation Model (DEM)
+  * continuation of IceSAT
 * GRACE
 * ALBMAP
+* Seismolab data (Chinese Academy of Geological Sciences)
+  * [lithosphere data](http://www.seismolab.org/model/antarctica/lithosphere/index.html)
+  * [glacier velocity data](http://www.seismolab.org/model/antarctica/glacier/index.html)
 
 ## Other overviews of data and models
 
