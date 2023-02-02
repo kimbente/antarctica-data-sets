@@ -3,17 +3,17 @@ Overview of available data sets under the public domains which may be suitable f
 
 ## Data providers
 
-* [NOAA NCEI](https://www.ncei.noaa.gov/products/paleoclimatology/ice-core) (The [US] National Oceanic and Atmospheric Administration, National Centers for Environmental Information)] - paleoclimatology datasets including ice core data
-  * [NOAA NCEI data sets by location](https://www.ncei.noaa.gov/access/paleo-search/reports/location?dataTypeId=7&search=true)
 * [NSIDC](https://nsidc.org/home) (The [US] National Snow and Ice Data Center) - contains a wide variety of cryosphere data sets including airborne, ground-based and satellite measurements.
   * [Example data set: Operation IceBridge](https://nsidc.org/data/icebridge)
   * new website [National Snow and Ice Data Center Distributed Active Archive Center (NSIDC DAAC)](https://www.earthdata.nasa.gov/topics/cryosphere)
   * [webinars](https://www.earthdata.nasa.gov/learn/webinars-and-tutorials/nsidc-daac-24-aug-2022)
   * [NSIDC Data tutorials](https://github.com/nsidc/NSIDC-Data-Tutorials)
-* [NSF-ICF](https://icecores.org/inventory) (The [US] National Science Foundation Ice Core Facility) - stores and studies ice cores recovered from glaciated regions around the world. As of mid 2022, this includes ice cores from 18 areas in Antarctica.
 * [SCAR](https://scar.org/resources/data/) (Scientific Committee on Antarctic Research) - included for example seismic data and iceberg data
   * [SCAR ADD](https://www.bas.ac.uk/project/add/) (Scientific Committee on Antarctic Research, Antarctic Digital Database) - topographic data managed by the British Antarctic Survey (BAS)
 * [Quantarctica](https://www.npolar.no/en/quantarctica/) by the Norsk PolarInstitute has a collection of Antarctic geographical datasets.
+* [NOAA NCEI](https://www.ncei.noaa.gov/products/paleoclimatology/ice-core) (The [US] National Oceanic and Atmospheric Administration, National Centers for Environmental Information)] - paleoclimatology datasets including ice core data
+  * [NOAA NCEI data sets by location](https://www.ncei.noaa.gov/access/paleo-search/reports/location?dataTypeId=7&search=true)
+* [NSF-ICF](https://icecores.org/inventory) (The [US] National Science Foundation Ice Core Facility) - stores and studies ice cores recovered from glaciated regions around the world. As of mid 2022, this includes ice cores from 18 areas in Antarctica.
 * [BAS](https://data.bas.ac.uk/terms.php?topic=Cryosphere) (Bristish Antarctic Survey) - cryosphere data sets
 * [Pangaea](https://www.pangaea.de/?t=Cryosphere) (Data Publisher for Earth & Environmental Science) - Tool allows search for e.g. Cryosphere data and more specifically for Sampling/ice drillings.
 
