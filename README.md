@@ -81,7 +81,7 @@ This area is of particular interest to paleoclimatology researchers. A current p
   * Data sets adhere to high data standards.
   * [MEaSUREs InSAR-Based Antarctica Ice Velocity Map, Version 2 (NSIDC-0484)](https://nsidc.org/data/nsidc-0484/versions/2). Rignot et al. 2011.
   * [MEaSUREs Grounding Zone of the Antarctic Ice Sheet, Version 1 (NSIDC-0778)](https://nsidc.org/data/nsidc-0778/versions/1). Grounding line available as well.
-  * [MEaSUREs MODIS Mosaic of Antarctica 2013-2014 (MOA2014) Image Map, Version 1 (NSIDC-0730)](https://nsidc.org/data/nsidc-0730/versions/1)  a snow grain size map and a surface morphology map
+  * [MEaSUREs MODIS Mosaic of Antarctica 2013-2014 (MOA2014) Image Map, Version 1 (NSIDC-0730)](https://nsidc.org/data/nsidc-0730/versions/1)  a snow grain size map and a surface morphology map. Snow grain size is related to the albedo.
   * [MEaSUREs Calibrated Enhanced-Resolution Passive Microwave Daily EASE-Grid 2.0 Brightness Temperature ESDR, Version 1 (NSIDC-0630)](https://nsidc.org/data/nsidc-0630/versions/1). Global data.
 * GRACE
 * ALBMAP
