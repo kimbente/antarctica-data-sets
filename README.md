@@ -4,10 +4,11 @@ Overview of available data sets under the public domains which may be suitable f
 ## Data providers
 
 * [NSIDC](https://nsidc.org/home) (The [US] National Snow and Ice Data Center) - contains a wide variety of cryosphere data sets including airborne, ground-based and satellite measurements.
-  * [Example data set: Operation IceBridge](https://nsidc.org/data/icebridge)
-  * new website [National Snow and Ice Data Center Distributed Active Archive Center (NSIDC DAAC)](https://www.earthdata.nasa.gov/topics/cryosphere)
-  * [webinars](https://www.earthdata.nasa.gov/learn/webinars-and-tutorials/nsidc-daac-24-aug-2022)
-  * [NSIDC Data tutorials](https://github.com/nsidc/NSIDC-Data-Tutorials)
+  * [Data](https://nsidc.org/data/explore-data). Select "Antarctica" as geographic area.
+  * [Earthdata cryosphere website](https://www.earthdata.nasa.gov/topics/cryosphere)
+  * [Earthdata - NASA's National Snow and Ice Data Center (NSIDC) Distributed Active Archive Center (DAAC)](https://www.earthdata.nasa.gov/eosdis/daacs/nsidc)
+  * [Earthdata NSIDC DAAC webinars](https://www.earthdata.nasa.gov/learn/webinars-and-tutorials/nsidc-daac-24-aug-2022)
+  * [NSIDC data tutorials](https://github.com/nsidc/NSIDC-Data-Tutorials)
 * [SCAR](https://scar.org/resources/data/) (Scientific Committee on Antarctic Research) - included for example seismic data and iceberg data
   * [SCAR ADD](https://www.bas.ac.uk/project/add/) (Scientific Committee on Antarctic Research, Antarctic Digital Database) - topographic data managed by the British Antarctic Survey (BAS)
 * [Quantarctica](https://www.npolar.no/en/quantarctica/) by the Norsk PolarInstitute has a collection of Antarctic geographical datasets.
