@@ -74,12 +74,18 @@ This area is of particular interest to paleoclimatology researchers. A current p
 
 ## Important research mission
 
-* [Operation Icebridge](https://icebridge.gsfc.nasa.gov/)
-  * most data are flightlines (thus not gridded) except the Digital Elevation Model (DEM)
-  * continuation of IceSAT
+* [NASA's Operation Icebridge](https://icebridge.gsfc.nasa.gov/)
+  * Most data are not gridded; an exception is the Digital Elevation Model (DEM)
+  * This mission bridges the temporal gap (~ 2009-2019) between NASA ICESat and ICESat-2
+* [NASA Making Earth System Data Records for Use in Research Environments (MEaSUREs) Program](https://nsidc.org/data/measures)
+  * Data sets adhere to high data standards.
+  * [MEaSUREs InSAR-Based Antarctica Ice Velocity Map, Version 2 (NSIDC-0484)](https://nsidc.org/data/nsidc-0484/versions/2). Rignot et al. 2011.
+  * [MEaSUREs Grounding Zone of the Antarctic Ice Sheet, Version 1 (NSIDC-0778)](https://nsidc.org/data/nsidc-0778/versions/1). Grounding line available as well.
+  * [MEaSUREs MODIS Mosaic of Antarctica 2013-2014 (MOA2014) Image Map, Version 1 (NSIDC-0730)](https://nsidc.org/data/nsidc-0730/versions/1)  a snow grain size map and a surface morphology map
+  * [MEaSUREs Calibrated Enhanced-Resolution Passive Microwave Daily EASE-Grid 2.0 Brightness Temperature ESDR, Version 1 (NSIDC-0630)](https://nsidc.org/data/nsidc-0630/versions/1). Global data.
 * GRACE
 * ALBMAP
-* Seismolab data (Chinese Academy of Geological Sciences)
+* Seismolab (Chinese Academy of Geological Sciences)
   * [lithosphere data](http://www.seismolab.org/model/antarctica/lithosphere/index.html)
   * [glacier velocity data](http://www.seismolab.org/model/antarctica/glacier/index.html)
 
