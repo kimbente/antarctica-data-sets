@@ -38,6 +38,11 @@ Overview of available data sets under the public domains which may be suitable f
 * ECMWF Reanalysis v5 (ERA5)
   * key publication [Hersbach et al. 2020](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3803?ref=https://githubhelp.com)
   * [data](https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5)
+  
+## In-situ data
+* Lora Koenig and Lynn Montgomery. 2019. [Surface Mass Balance and Snow Depth on Sea Ice Working Group (SUMup) accumulation on land ice subdataset](https://arcticdata.io/catalog/view/doi:10.18739/A2ZS2KD0Z), Greenland and Antarctica, 1987-2018. Arctic Data Center. doi:10.18739/A2ZS2KD0Z.
+
+* ECMWF Reanalysis v5 (ERA5)
 
 ## Continent wide data by variable
 
