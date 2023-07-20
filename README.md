@@ -8,12 +8,13 @@ ___
 **Tale of contents:**
 - [1. Institutional data providers](#1-institutional-data-providers)
 - [2. Regional Climate Models (RCMs) for Antarctica](#2-regional-climate-models-rcms-for-antarctica)
-- [3. Digital Earth / Digital Twin projects](#3-digital-earth--digital-twin-projects)
-- [4. Alternative overviews of data and models](#4-alternative-overviews-of-data-and-models)
-- [5. Modelled / simulated data](#5-modelled--simulated-data)
-- [6. Continent-scale data by variable](#6-continent-scale-data-by-variable)
-- [7. Important research operations](#7-important-research-operations)
-- [8. Satellite Missions](#8-satellite-missions)
+- [3. CMIP6-Endorsed MIPs related to Antarctica](#3-cmip6-endorsed-mips-related-to-antarctica)
+- [4. Digital Earth / Digital Twin projects](#4-digital-earth--digital-twin-projects)
+- [5. Alternative overviews of data and models](#5-alternative-overviews-of-data-and-models)
+- [6. Modelled / simulated data](#6-modelled--simulated-data)
+- [7. Continent-scale data by variable](#7-continent-scale-data-by-variable)
+- [8. Important research operations](#8-important-research-operations)
+- [9. Satellite Missions](#9-satellite-missions)
 
 ___
 
@@ -49,8 +50,20 @@ ___
   * *coming* [HCLIM Polar High Resolution Regional Climate Model](https://www.ecmwf.int/en/research/special-projects/spdkmott-2023)
     * led by Ruth Mottram
 
+# 3. CMIP6-Endorsed MIPs related to Antarctica
 
-# 3. Digital Earth / Digital Twin projects
+Model Intercomparison Projects (MIPs). CMIP-7 will be commencing soon.
+
+* [ISMIP7](https://theghub.org/groups/ismip6/wiki) Ice Sheet Model Intercomparison Project for CMIP
+* [PAMIP](https://www.cesm.ucar.edu/projects/cmip6/pamip) Polar Amplification Model Intercomparison Project
+* [SIMIP](https://climate-cryosphere.org/simip-about/) Sea-Ice Model Intercomparison Project
+* [PMIP](https://pmip.lsce.ipsl.fr/) Paleoclimate Modelling Intercomparison Project. This is relevant since the ice sheet is an important source of paleo data.
+* [MISOMIP2](https://climate-cryosphere.org/about-15/) Marine Ice Sheet-Ocean Model Intercomparions Project
+* [LS3MIP](https://wiki.c2sm.ethz.ch/LS3MIP) Land Surface, Snow and Soil Moistures Model Intercomparison Project
+* [CORDEX including Antarctic CORDEX](http://www.cordex.org/) Coordinated Regional Climate Downscaling Experiment
+
+
+# 4. Digital Earth / Digital Twin projects
 Digital Earth and Digital Twin projects typically aim to integrate various data sources (satellite and other) with models and simulations.
 * [Digital Twin Antarctica](https://dte-antarctica.org/) (UK-led)
   * Consortium consists of The University of Edinburgh, Lancaster University, Institute of Environmental Geosciences (CNRS Grenoble), [Earthwave](https://earthwave.co.uk/eo/), and Liège Université.
@@ -62,15 +75,15 @@ Digital Earth and Digital Twin projects typically aim to integrate various data 
   * builds on the preceeding (2020 - 2022) [Digital Antarctica](https://aappartnership.org.au/digital-antarctica/) project run by the Digital Antarctica Reference Group which consists of representatives of the [Australian Antarctic Program Partnership (AAPP) partner organisations](https://aappartnership.org.au/our-partners/).
 * [Digital Twin of the polar regions](https://www.bas.ac.uk/project/digital-twins-of-the-polar-regions/) project run by the British Antarctic Survey AI Lab (BAS AI Lab)
 
-# 4. Alternative overviews of data and models
+# 5. Alternative overviews of data and models
 
 * [Pangaea](https://www.pangaea.de/?t=Cryosphere) (Data Publisher for Earth & Environmental Science) - Tool allows search for e.g. cryosphere data and more specifically for sampling/ice drillings.
 * [Cryosphere links repository](https://github.com/tom-andersson/cryosphere-links)
 * [AntarcticGlaciers website](https://www.antarcticglaciers.org/antarctica-2/antarctic-datasets/)
 * [Google Earth Engine Data Catalogue](https://developers.google.com/earth-engine/datasets)
-* 
+* [ISMIP6 data set suggestions](https://theghub.org/groups/ismip6/wiki/Datasets-for-whole-ice-sheet-models) data sets of ice sheet models. 
 
-# 5. Modelled / simulated data
+# 6. Modelled / simulated data
 * Bedmap2
   * key publication [Fretwell et al. 2013](https://tc.copernicus.org/articles/7/375/2013/)
   * [data](https://www.bas.ac.uk/project/bedmap-2/)
@@ -84,7 +97,7 @@ Digital Earth and Digital Twin projects typically aim to integrate various data 
   * [data](https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5)
   * ECMWF Reanalysis v5 (ERA5)
 
-# 6. Continent-scale data by variable
+# 7. Continent-scale data by variable
 
 * Ice velocity data
   * key publication 1 [Rignot et al. 2011](https://www.science.org/doi/full/10.1126/science.1208336?casa_token=g2LgmFsTJPkAAAAA%3AlVOZ7HeKsNPfROZvvzWzlGnnE5LTb5EQbojhwVWznZWTXbA9N31AAHGUNATPT0B9rHcqwhCumwtMdEhf#core-R22)
@@ -105,7 +118,7 @@ Digital Earth and Digital Twin projects typically aim to integrate various data 
   * Other publication [An et al. 2015](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JB011917)
   * [data](http://www.seismolab.org/model/antarctica/lithosphere/index.html#an1-hf)
 
-# 7. Important research operations
+# 8. Important research operations
 
 * [NASA's Operation Icebridge](https://icebridge.gsfc.nasa.gov/)
   * Most data are not gridded; an exception is the Digital Elevation Model (DEM)
@@ -121,7 +134,7 @@ Digital Earth and Digital Twin projects typically aim to integrate various data 
   * [lithosphere data](http://www.seismolab.org/model/antarctica/lithosphere/index.html)
   * [glacier velocity data](http://www.seismolab.org/model/antarctica/glacier/index.html)
 
-# 8. Satellite Missions
+# 9. Satellite Missions
 * [GRACE & Grace-FO](https://www.jpl.nasa.gov/missions/gravity-recovery-and-climate-experiment-follow-on-grace-fo) Gravity Recovery and Climate Experiment (GRACE) Follow-on is a joint mission of NASA and the German Aerospace Center (DLR) consiting of a pair of satellites detecting gravitational anomalies (greater mass concentrations). (not ice specific)
 * [CryoSat-2 Antarctica 1km DEM](https://www.esa.int/Enabling_Support/Operations/CryoSat-2_operations) European Space Agency monitoring precise changes in the thickness of the polar ice sheets and floating sea ice. SAR Interferometric Radar Altimeter (SIRAL). The instrument combines a pulse-limited radar altimeter and a second antenna with synthetic aperture and interferometric signal processing.[ Has three different modes of resolution.
 * [Icesat](https://icesat.gsfc.nasa.gov/) Ice, Cloud, and land Elevation Satellite
