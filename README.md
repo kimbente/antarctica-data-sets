@@ -134,6 +134,15 @@ Digital Earth and Digital Twin projects typically aim to integrate various data 
   * [lithosphere data](http://www.seismolab.org/model/antarctica/lithosphere/index.html)
   * [glacier velocity data](http://www.seismolab.org/model/antarctica/glacier/index.html)
 
+# DEMS (Digital Elevation Models)
+
+# Observations
+* [SCAR REference Antarctic Data for Environmental Research (READER)](https://www.scar.org/resources/ref-data-environmental-research/) consistent data from AWS (Automatic Weather Stations)
+ * [MET READER data](https://legacy.bas.ac.uk/met/READER/surface/). Variables: temperature, surface pressure, wind speed/direction and geopotential height
+ * [ICE-READER](https://www.icereader.org/)
+* [The Antarctic Meteorological Research Center (AMRC) and Automatic Weather Station (AWS) program, United States Antarctic Program (USAP)](http://amrc.ssec.wisc.edu/aws/index.html)
+
+
 # 9. Satellite Missions
 * [GRACE & Grace-FO](https://www.jpl.nasa.gov/missions/gravity-recovery-and-climate-experiment-follow-on-grace-fo) Gravity Recovery and Climate Experiment (GRACE) Follow-on is a joint mission of NASA and the German Aerospace Center (DLR) consiting of a pair of satellites detecting gravitational anomalies (greater mass concentrations). (not ice specific)
 * [CryoSat-2 Antarctica 1km DEM](https://www.esa.int/Enabling_Support/Operations/CryoSat-2_operations) European Space Agency monitoring precise changes in the thickness of the polar ice sheets and floating sea ice. SAR Interferometric Radar Altimeter (SIRAL). The instrument combines a pulse-limited radar altimeter and a second antenna with synthetic aperture and interferometric signal processing.[ Has three different modes of resolution.
